@@ -1,4 +1,4 @@
 # myskgrepo
 
 # skg edit on local
- edit on guthub
+ edit on github
